@@ -1,0 +1,8 @@
+{
+  "name": "water-access-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Builds the slide deck for the drinking-water data analysis portfolio",
+  "scripts": { "deck": "node scripts/build_deck.js" },
+  "dependencies": { "pptxgenjs": "^3.12.0", "sharp": "^0.33.0" }
+}
