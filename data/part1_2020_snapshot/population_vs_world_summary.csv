@@ -1,0 +1,11 @@
+metric,value,unit
+Total population (dataset),7786695107.751232,people
+Total population (estimated world),7821000000.0,people
+"Urban population (dataset, sum of pop_u_val)",4375308462.500149,people
+Urban population (dataset total x 55% world urban share),4282682309.263178,people
+"Urban population (estimated world, 55%)",4301550000.0,people
+Urban share (dataset),56.189543855964864,%
+Urban share (estimated world),55.00000000000001,%
+% difference: dataset vs world population,0.43958947188468656,%
+% difference: dataset urban total vs dataset urban from 55%,2.1396685600325775,%
+% difference: dataset urban total vs world urban,1.7001190654179696,%

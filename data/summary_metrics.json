@@ -1,0 +1,360 @@
+{
+  "p1": {
+    "countries": 213,
+    "features_total": 23,
+    "features_original": 16,
+    "dataset_pop": 7786695107.751232,
+    "world_pop": 7821000000.0,
+    "pop_pct_diff": 0.43958947188468656,
+    "ds_urban_share": 56.189543855964864,
+    "world_urban_share": 55.0,
+    "urban_total_pct_diff_world": 1.7001190654179696,
+    "urban_total_pct_diff_pct": 2.1396685600325775,
+    "n_over_100": 9,
+    "max_basic_raw": 100.0000037,
+    "rows_fixed_semicolon": 5,
+    "mean_basic": {
+      "n": 89.86478253146917,
+      "r": 81.33591802609756,
+      "u": 94.689839748
+    },
+    "median_basic": {
+      "n": 97.3481397,
+      "r": 90.731616825,
+      "u": 98.10662849
+    },
+    "iqr_basic": {
+      "n": 14.244214279999994,
+      "r": 34.29382139250001,
+      "u": 7.386540510000003
+    },
+    "min_basic": {
+      "n": 37.20240205,
+      "r": 21.98279234,
+      "u": 49.66166495
+    },
+    "mean_levels": {
+      "n": {
+        "bas": 89.86478253146917,
+        "lim": 3.865265344882696,
+        "unimp": 4.418010653720136,
+        "sur": 1.9154885837974707
+      },
+      "r": {
+        "bas": 81.33591802609756,
+        "lim": 5.836562547955012,
+        "unimp": 8.732261484443903,
+        "sur": 4.224039637676415
+      },
+      "u": {
+        "bas": 94.689839748,
+        "lim": 3.281838653755257,
+        "unimp": 1.718785209517564,
+        "sur": 0.31311484427656067
+      }
+    },
+    "income": {
+      "Unclassified": {
+        "countries": 16,
+        "avg_urban_share_pct": 61.46,
+        "avg_basic_pct": 97.18,
+        "avg_limited_pct": 0.15,
+        "avg_unimproved_pct": 2.39,
+        "avg_surface_pct": 0.32,
+        "total_population_thousands": 37264.34
+      },
+      "Low income": {
+        "countries": 26,
+        "avg_urban_share_pct": 36.04,
+        "avg_basic_pct": 62.82,
+        "avg_limited_pct": 16.55,
+        "avg_unimproved_pct": 15.21,
+        "avg_surface_pct": 5.42,
+        "total_population_thousands": 590425.16
+      },
+      "Lower middle income": {
+        "countries": 52,
+        "avg_urban_share_pct": 48.79,
+        "avg_basic_pct": 82.21,
+        "avg_limited_pct": 5.69,
+        "avg_unimproved_pct": 7.9,
+        "avg_surface_pct": 4.29,
+        "total_population_thousands": 3399310.23
+      },
+      "Upper middle income": {
+        "countries": 49,
+        "avg_urban_share_pct": 64.69,
+        "avg_basic_pct": 96.43,
+        "avg_limited_pct": 1.56,
+        "avg_unimproved_pct": 1.48,
+        "avg_surface_pct": 0.57,
+        "total_population_thousands": 2547619.31
+      },
+      "High income": {
+        "countries": 70,
+        "avg_urban_share_pct": 79.36,
+        "avg_basic_pct": 99.56,
+        "avg_limited_pct": 0.18,
+        "avg_unimproved_pct": 0.24,
+        "avg_surface_pct": 0.02,
+        "total_population_thousands": 1212076.07
+      }
+    },
+    "corr_urban_basic": 0.547,
+    "corr_pop_basic": 0.003,
+    "corr_pop_urban": -0.06,
+    "countries_basic_below_50": 8,
+    "countries_basic_below_90": 56,
+    "sheet_mean_basic": {
+      "n": 89.02098166779345,
+      "r": 62.624838292394365,
+      "u": 77.7968166943662
+    }
+  },
+  "p2": {
+    "countries": 231,
+    "rows": 462,
+    "features_total": 28,
+    "year_counts": {
+      "2015": 231,
+      "2016": 3,
+      "2017": 9,
+      "2018": 2,
+      "2019": 4,
+      "2020": 213
+    },
+    "y_diff_avg": 4.796536796536796,
+    "arc": {
+      "n": {
+        "avg": 0.2767441419170306,
+        "median": 0.07858998000000099,
+        "min": -1.0217886739999997,
+        "max": 2.7503264880000002
+      },
+      "r": {
+        "avg": 0.4844936959520958,
+        "median": 0.2897807999999998,
+        "min": -1.2273809599999992,
+        "max": 2.6678826380000005
+      },
+      "u": {
+        "avg": 0.15482340283977902,
+        "median": 0.03014517000000012,
+        "min": -1.6200868119999996,
+        "max": 2.668211855999999
+      }
+    },
+    "counts": {
+      "National": {
+        "missing_ARC": 2,
+        "full_access": 62,
+        "ARC_equal_0_not_full": 16,
+        "ARC_below_0_not_full": 16,
+        "ARC_above_0_not_full": 135,
+        "total_countries": 231
+      },
+      "Rural": {
+        "missing_ARC": 64,
+        "full_access": 29,
+        "ARC_equal_0_not_full": 5,
+        "ARC_below_0_not_full": 17,
+        "ARC_above_0_not_full": 116,
+        "total_countries": 231
+      },
+      "Urban": {
+        "missing_ARC": 50,
+        "full_access": 55,
+        "ARC_equal_0_not_full": 7,
+        "ARC_below_0_not_full": 26,
+        "ARC_above_0_not_full": 93,
+        "total_countries": 231
+      }
+    },
+    "diff": {
+      "n": 165,
+      "mean": 0.3208093401090908,
+      "median": 0.21220330600000067,
+      "share_positive": 0.6787878787878788,
+      "share_negative": 0.1393939393939394,
+      "hist_counts": [
+        1,
+        0,
+        1,
+        0,
+        5,
+        16,
+        81,
+        36,
+        17,
+        5,
+        2,
+        1
+      ],
+      "hist_edges": [
+        -2.5,
+        -2.083,
+        -1.667,
+        -1.25,
+        -0.833,
+        -0.417,
+        0.0,
+        0.417,
+        0.833,
+        1.25,
+        1.667,
+        2.083,
+        2.5
+      ]
+    },
+    "top2_abs_diff": [
+      "South Sudan",
+      "Morocco"
+    ],
+    "extremes": [
+      {
+        "name": "Morocco",
+        "region": "Middle East & North Africa",
+        "ARC_r": 2.6347,
+        "ARC_u": 0.3055,
+        "ARC_diff_rural_minus_urban": 2.3293
+      },
+      {
+        "name": "Iraq",
+        "region": "Middle East & North Africa",
+        "ARC_r": 2.0137,
+        "ARC_u": 0.2962,
+        "ARC_diff_rural_minus_urban": 1.7175
+      },
+      {
+        "name": "Tunisia",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": 1.6691,
+        "ARC_u": -0.0137,
+        "ARC_diff_rural_minus_urban": 1.6828
+      },
+      {
+        "name": "Senegal",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": 1.8603,
+        "ARC_u": 0.3548,
+        "ARC_diff_rural_minus_urban": 1.5055
+      },
+      {
+        "name": "Brazil",
+        "region": "Latin America & Caribbean",
+        "ARC_r": 1.4378,
+        "ARC_u": 0.1035,
+        "ARC_diff_rural_minus_urban": 1.3344
+      },
+      {
+        "name": "South Sudan",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": -0.6266,
+        "ARC_u": 1.8622,
+        "ARC_diff_rural_minus_urban": -2.4888
+      },
+      {
+        "name": "Burkina Faso",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": -1.2274,
+        "ARC_u": 0.0492,
+        "ARC_diff_rural_minus_urban": -1.2766
+      },
+      {
+        "name": "Solomon Islands",
+        "region": "East Asia & Pacific",
+        "ARC_r": -0.7214,
+        "ARC_u": 0.0288,
+        "ARC_diff_rural_minus_urban": -0.7501
+      },
+      {
+        "name": "Lesotho",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": 0.0459,
+        "ARC_u": 0.6243,
+        "ARC_diff_rural_minus_urban": -0.5784
+      },
+      {
+        "name": "Guinea",
+        "region": "Sub-Saharan Africa",
+        "ARC_r": -0.2402,
+        "ARC_u": 0.2868,
+        "ARC_diff_rural_minus_urban": -0.527
+      }
+    ],
+    "regions": [
+      {
+        "region": "Sub-Saharan Africa",
+        "countries": 53,
+        "avg_ARC_national": 0.5583,
+        "avg_ARC_rural": 0.6042,
+        "avg_ARC_urban": 0.2704,
+        "avg_basic_national_end_year": 70.3992,
+        "avg_population_thousands": 21208.1164,
+        "illustrative_years_to_full_access": 53.0213
+      },
+      {
+        "region": "South Asia",
+        "countries": 11,
+        "avg_ARC_national": 0.4802,
+        "avg_ARC_rural": 0.5591,
+        "avg_ARC_urban": 0.2655,
+        "avg_basic_national_end_year": 92.8436,
+        "avg_population_thousands": 189301.5167,
+        "illustrative_years_to_full_access": 14.9021
+      },
+      {
+        "region": "Middle East & North Africa",
+        "countries": 10,
+        "avg_ARC_national": 0.3456,
+        "avg_ARC_rural": 0.737,
+        "avg_ARC_urban": 0.124,
+        "avg_basic_national_end_year": 92.0723,
+        "avg_population_thousands": 31107.4204,
+        "illustrative_years_to_full_access": 22.9415
+      },
+      {
+        "region": "East Asia & Pacific",
+        "countries": 40,
+        "avg_ARC_national": 0.2784,
+        "avg_ARC_rural": 0.5078,
+        "avg_ARC_urban": 0.233,
+        "avg_basic_national_end_year": 93.0537,
+        "avg_population_thousands": 56188.4174,
+        "illustrative_years_to_full_access": 24.9477
+      },
+      {
+        "region": "Latin America & Caribbean",
+        "countries": 48,
+        "avg_ARC_national": 0.1444,
+        "avg_ARC_rural": 0.6803,
+        "avg_ARC_urban": 0.0715,
+        "avg_basic_national_end_year": 96.8525,
+        "avg_population_thousands": 13385.691,
+        "illustrative_years_to_full_access": 21.7937
+      },
+      {
+        "region": "Europe & Central Asia",
+        "countries": 64,
+        "avg_ARC_national": 0.1117,
+        "avg_ARC_rural": 0.2244,
+        "avg_ARC_urban": 0.047,
+        "avg_basic_national_end_year": 97.7898,
+        "avg_population_thousands": 15898.0752,
+        "illustrative_years_to_full_access": 19.7895
+      },
+      {
+        "region": "North America",
+        "countries": 5,
+        "avg_ARC_national": 0.0172,
+        "avg_ARC_rural": 0.1423,
+        "avg_ARC_urban": 0.002,
+        "avg_basic_national_end_year": 98.0817,
+        "avg_population_thousands": 73773.9305,
+        "illustrative_years_to_full_access": 111.7997
+      }
+    ],
+    "ssa_arc_n_ex_tunisia": 0.5586406292596153,
+    "ssa_arc_n": 0.558280820745283
+  }
+}
