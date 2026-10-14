@@ -5,7 +5,7 @@
 - **Part 1, the 2020 snapshot:** 213 countries. Cleaning, feature engineering, descriptive statistics, and access by area, population size and income group.
 - **Part 2, change over time:** 231 countries observed in 2015 and (mostly) 2020. Annual Rate of Change (ARC), full-access analysis, rural vs urban gaps and regional progress.
 
-**Slide deck:** [`presentation/water-access-portfolio-deck.pptx`](presentation/water-access-portfolio-deck.pptx) (22 slides; a [PDF copy](presentation/water-access-portfolio-deck.pdf) renders directly on GitHub).
+**Slide deck:** [`presentation/water-access-portfolio-deck.pptx`](presentation/water-access-portfolio-deck.pptx) (21 slides; a [PDF copy](presentation/water-access-portfolio-deck.pdf) renders directly on GitHub).
 
 ---
 
